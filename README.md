@@ -1,2 +1,2 @@
 # Klipper_Firmware_Tutorials
- Repo for everything klipper tutorial related
+ Repo for everything related to the Klipper firmware.
